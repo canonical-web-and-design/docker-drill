@@ -1,6 +1,8 @@
 # Drill
 
-A tiny Docker image for running [drill](http://linux.die.net/man/1/drill).
+A tiny Docker image for performing DNS lookups using [`drill`](http://linux.die.net/man/1/drill).
+
+`drill` performs similar functions to [`dig`](http://linux.die.net/man/1/dig), [`host`](http://linux.die.net/man/1/host) and [`nslookup`](http://linux.die.net/man/1/nslookup).
 
 ## Usage
 
