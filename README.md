@@ -1,3 +1,9 @@
+***Deprecated and archived***
+
+*We no longer use this, and it is no longer actively maintained.*
+
+---
+
 # Drill
 
 A tiny Docker image for performing DNS lookups using [`drill`](http://linux.die.net/man/1/drill).
